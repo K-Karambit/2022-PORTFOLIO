@@ -320,6 +320,9 @@ span {
   font-weight: 300;
   margin: 1em 0 0 0;
 }
+.ProjectImg {
+  padding: 1em;
+}
 .ProjectImg-Picture {
   width: 80%;
   height: auto;
