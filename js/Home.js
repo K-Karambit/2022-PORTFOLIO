@@ -1,6 +1,6 @@
 function sendEmail() {
   Email.send({
-    SecureToken: "90d50a5b-4d3a-45e9-92b8-96da6d3ee7a4",
+    SecureToken: "b0ec0654-7113-47c9-96d8-ea31685f5d77",
     To: "johnkennethserrano95@gmail.com",
     From: "johnkennethserrano95@gmail.com",
     Subject: "Portfolio Contact Form",
